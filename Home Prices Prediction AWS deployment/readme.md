@@ -2,3 +2,5 @@
 Banglore Home Prices Prediciton deployed to AWS using http://ec2-13-126-144-250.ap-south-1.compute.amazonaws.com/
 
 Dataset has been taken from https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
+--Prediction values needs me to open the server manually
